@@ -1,4 +1,4 @@
-# Hi there, I'm Xuan Loc 👋
+<img width="770" height="237" alt="image" src="https://github.com/user-attachments/assets/fdc48402-e440-4923-84ac-cccfa5593864" /># Hi there, I'm Xuan Loc 👋
 
 ### 👨‍💻 A little bit about me
 - 🔭 I’m currently studying Software Engineering at Ho Chi Minh City University of Technology and Education (HCMUTE).
@@ -24,8 +24,8 @@
 
 <!-- GitHub Stats Cards using your custom Vercel domain -->
 <p align="center">
-  <img src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&v=99" alt="GitHub Stats" />
-  <img src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&v=99" alt="Top Languages" />
+  <img src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&v=100" alt="GitHub Stats" />
+  <img src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&theme=tokyonight&v=100" alt="Top Languages" />
 </p>
 
 <p align="center">
