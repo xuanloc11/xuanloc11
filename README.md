@@ -36,9 +36,7 @@
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | Personal Portfolio | My personal website and portfolio | WordPress / HTML / CSS | [Demo](#) • [Repo](#) |
-| Django Web App | A web application built with Django | Python, Django, SQLite | [Repo](#) |
-| Raspberry Pi Project | Embedded system / home network experiment | Raspberry Pi, Linux | [Repo](#) |
-
+| Survey Web App | A web application built with Django | Python, Django, PostgreSQL | [Repo](https://github.com/xuanloc11/Survey) |
 ---
 
 ### 🌱 Currently Learning
