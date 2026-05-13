@@ -27,14 +27,14 @@
   <tr>
     <td align="center" width="50%">
       <img
-        height="185"
+        height="200"
         src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=106"
         alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        height="185"
+        height="200"
         src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=106"
         alt="Top Languages"
       />
