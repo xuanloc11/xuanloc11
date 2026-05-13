@@ -92,7 +92,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect for Work
 
 <p align="left">
   <a href="mailto:letranxuanloc05@gmail.com">
