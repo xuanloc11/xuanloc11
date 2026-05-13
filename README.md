@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Java+%7C+Python+Django+%7C+WordPress;Exploring+Embedded+Systems;Photography+%26+Home+Networking;T1+%26+G2+Esports+Fan"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Java+%7C+Python+Django+%7C+WordPress;Photography+%26+Home+Networking;T1+%26+G2+Esports+Fan"
     alt="Typing SVG"
   />
 </p>
@@ -27,15 +27,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,django,wordpress,raspberrypi,git,github,html,css,js,vscode,linux" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
