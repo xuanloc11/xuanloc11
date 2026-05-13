@@ -18,7 +18,7 @@
 - 🔭 I’m currently studying **Software Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
 - 🌱 I’m currently working with / learning: **Java**, **Python Django**, **WordPress**, and **Embedded Systems with Raspberry Pi**.
 - 🧠 I enjoy building web applications, learning backend development, and experimenting with Linux / networking.
-- ⚡ Fun fact: When I'm not coding, you can find me shooting and editing photos, tinkering with home networks, or cheering for **T1** and **G2 Esports**.
+- ⚡ Fun fact: When I'm not coding, you can find me shooting and editing photos.
 - 📫 How to reach me: **letranxuanloc05@gmail.com**
 
 ---
