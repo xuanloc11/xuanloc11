@@ -62,19 +62,27 @@
 
 ### 📊 My GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=xuanloc11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <img
         height="185"
-        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=106"
+        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=107"
         alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
         height="185"
-        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=106"
+        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=107"
         alt="Top Languages"
       />
     </td>
