@@ -23,8 +23,6 @@
 ### 📊 My GitHub Stats
 
 <!-- GitHub Stats Cards using your custom Vercel domain -->
-### 📊 My GitHub Stats
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -36,9 +34,9 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&v=103"
+        height="180"
+        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=8&v=104"
         alt="Top Languages"
-        width="100%"
       />
     </td>
   </tr>
