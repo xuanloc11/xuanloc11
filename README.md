@@ -27,9 +27,9 @@
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=103"
+        height="185"
+        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=106"
         alt="GitHub Stats"
-        width="100%"
       />
     </td>
     <td align="center" width="50%">
