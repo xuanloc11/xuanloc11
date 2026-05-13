@@ -1,4 +1,4 @@
-<img width="770" height="237" alt="image" src="https://github.com/user-attachments/assets/fdc48402-e440-4923-84ac-cccfa5593864" /># Hi there, I'm Xuan Loc 👋
+# Hi there, I'm Xuan Loc 👋
 
 ### 👨‍💻 A little bit about me
 - 🔭 I’m currently studying Software Engineering at Ho Chi Minh City University of Technology and Education (HCMUTE).
