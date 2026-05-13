@@ -24,9 +24,16 @@
 
 <!-- GitHub Stats Cards using your custom Vercel domain -->
 <p align="center">
-  <img height="180" src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&v=102" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&v=102" alt="Top Languages" />
+  <img
+    height="190"
+    src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=103"
+    alt="GitHub Stats"
+  />
+  <img
+    height="190"
+    src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&v=103"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
