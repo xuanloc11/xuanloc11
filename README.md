@@ -23,16 +23,32 @@
 ### 📊 My GitHub Stats
 
 <!-- GitHub Stats Cards using your custom Vercel domain -->
+### 📊 My GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=103"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&v=103"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img
-    height="190"
-    src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=103"
-    alt="GitHub Stats"
-  />
-  <img
-    height="190"
-    src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&v=103"
-    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=xuanloc11&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
   />
 </p>
 
