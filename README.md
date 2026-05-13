@@ -1,4 +1,9 @@
-# Hi there, I'm Xuan Loc 👋
+<h1 align="center">Hi 👋, I'm Xuan Loc</h1>
+<h3 align="center">Software Engineering Student | Java • Django • WordPress • Raspberry Pi</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+%7C+Python+Django+%7C+WordPress;Exploring+Embedded+Systems;Photography+%26+Home+Networking" alt="Typing SVG" />
+</p>
 
 ### 👨‍💻 A little bit about me
 - 🔭 I’m currently studying Software Engineering at Ho Chi Minh City University of Technology and Education (HCMUTE).
