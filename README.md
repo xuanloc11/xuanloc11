@@ -103,15 +103,6 @@
 
 ---
 
-### ⚡ Beyond Coding
-
-- 📸 I enjoy shooting and editing photos.
-- 🌐 I like tinkering with home networks.
-- 🎮 Esports fan — cheering for **T1** and **G2 Esports**.
-- 🍃 Always curious about tech, systems, and creative tools.
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
@@ -121,10 +112,10 @@
   <a href="https://github.com/xuanloc11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com/your-facebook-link" target="_blank">
+  <a href="https://facebook.com/xloc0405" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-link" target="_blank">
+  <a href="https://linkedin.com/in/xuanloc11/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
