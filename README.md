@@ -34,9 +34,9 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6&v=105"
+        height="185"
+        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=106"
         alt="Top Languages"
-        width="100%"
       />
     </td>
   </tr>
