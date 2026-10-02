@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Xuan Loc 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student | Java • Django • WordPress • Raspberry Pi
+  Software Developer | Java • Django • WordPress • Python • Reactjs
 </h3>
 
 <p align="center">
