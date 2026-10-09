@@ -72,7 +72,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=xuanloc11&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=xuanloc11&theme=tokyonight&hide_border=true&timezone=Asia%2FHo_Chi_Minh"
     alt="GitHub Streak"
     width="100%"
   />
