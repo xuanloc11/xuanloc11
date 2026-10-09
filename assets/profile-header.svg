@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="224" viewBox="0 0 1000 224" role="img" aria-labelledby="title desc">
+  <title id="title">Xuan Loc · Software Developer</title>
+  <desc id="desc">A Tokyo Night inspired introduction with gently orbiting stars. Java, Python, Django, React, and Linux.</desc>
+  <style>
+    svg{--bg:#1a1b27;--panel:#24283b;--fg:#c0caf5;--muted:#a9b1d6;--blue:#7aa2f7;--purple:#bb9af7;--green:#9ece6a;--border:#343b58}
+    text{font-family:Segoe UI,Arial,sans-serif;fill:var(--fg)}
+    .mono{font-family:Consolas,Menlo,monospace}.muted{fill:var(--muted)}
+    .orbit{transform-origin:830px 112px;animation:orbit 24s linear infinite}
+    .reverse{animation-direction:reverse;animation-duration:36s}
+    .star{animation:twinkle 4s ease-in-out infinite alternate}.later{animation-delay:-2s}
+    .trail{animation:drift 16s linear infinite}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes twinkle{from{opacity:.25}to{opacity:.85}}
+    @keyframes drift{to{stroke-dashoffset:-120}}
+    @media(prefers-color-scheme:light){svg{--bg:#f4f5fc;--panel:#e9edf9;--fg:#292e42;--muted:#4d587b;--blue:#335cb4;--purple:#7755b5;--green:#4b6f22;--border:#d4daf0}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="var(--bg)"/><stop offset="1" stop-color="var(--panel)"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="var(--blue)" stop-opacity=".13"/><stop offset="1" stop-color="var(--blue)" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="222" rx="16" fill="url(#surface)" stroke="var(--border)"/>
+  <circle cx="830" cy="112" r="150" fill="url(#glow)"/>
+  <path d="M48 47h28" stroke="var(--green)" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="77" class="mono muted" font-size="14" letter-spacing="3">HELLO, I'M</text>
+  <text x="44" y="135" font-size="58" font-weight="700" letter-spacing="-2">Xuan Loc<tspan fill="var(--blue)">.</tspan></text>
+  <text x="48" y="169" font-size="22" fill="var(--blue)" style="fill:var(--blue)">Software Developer</text>
+  <text x="48" y="198" class="mono muted" font-size="15">Java · Python / Django · React · Linux</text>
+  <g fill="none" stroke="var(--border)">
+    <circle cx="830" cy="112" r="68"/>
+    <circle cx="830" cy="112" r="94"/>
+    <circle class="trail" cx="830" cy="112" r="94" stroke="var(--blue)" stroke-opacity=".5" stroke-dasharray="2 10"/>
+  </g>
+  <g class="orbit"><circle cx="830" cy="44" r="5" fill="var(--blue)"/><circle cx="830" cy="180" r="3" fill="var(--green)"/></g>
+  <g class="orbit reverse"><circle cx="924" cy="112" r="4" fill="var(--purple)"/><circle cx="736" cy="112" r="3" fill="var(--blue)"/></g>
+  <text x="830" y="128" text-anchor="middle" class="mono" font-size="48" font-weight="700" style="fill:var(--blue)">&lt;<tspan fill="var(--purple)">/</tspan>&gt;</text>
+  <g stroke="var(--purple)" stroke-width="1.5" stroke-linecap="round">
+    <path class="star" d="M670 49v8m-4-4h8M958 156v8m-4-4h8"/>
+    <path class="star later" d="M704 176v8m-4-4h8M935 38v8m-4-4h8"/>
+  </g>
+  <g fill="var(--blue)"><circle class="star later" cx="620" cy="115" r="2"/><circle class="star" cx="973" cy="89" r="2"/></g>
+</svg>

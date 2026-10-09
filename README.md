@@ -1,8 +1,6 @@
-<h1 align="center">Hi there, I'm Xuan Loc 👋</h1>
-
-<h3 align="center">
-  Software Developer | Java • Django • WordPress • Python • Reactjs
-</h3>
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Hi, I'm Xuan Loc — Software Developer" width="100%" />
+</p>
 
 <p align="center">
   <img
@@ -41,6 +39,10 @@
 
 ### 🌱 Currently Learning
 
+<p align="center">
+  <img src="assets/coding-loop.svg" alt="Animated terminal: learning Java, Python / Django, React, and Linux" width="100%" />
+</p>
+
 - Advanced Java & Object-Oriented Programming
 - Django and Django REST Framework
 - WordPress Theme / Plugin Development
@@ -55,14 +57,14 @@
   <tr>
     <td align="center" width="50%">
       <img
-        height="185"
-        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=107"
+        width="100%"
+        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=495&line_height=20&v=107"
         alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        height="185"
+        width="100%"
         src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=107"
         alt="Top Languages"
       />

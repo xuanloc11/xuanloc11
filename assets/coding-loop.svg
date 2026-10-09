@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="216" viewBox="0 0 900 216" role="img" aria-labelledby="title desc">
+  <title id="title">Learn. Build. Repeat.</title>
+  <desc id="desc">An animated terminal introducing Xuan Loc's learning interests: Java, Python and Django, React, and Linux. The text is decorative, not a live activity feed.</desc>
+  <style>
+    svg{--bg:#1a1b27;--panel:#24283b;--fg:#c0caf5;--muted:#a9b1d6;--blue:#7aa2f7;--purple:#bb9af7;--green:#9ece6a;--border:#343b58}
+    text{font-family:Consolas,Menlo,monospace;fill:var(--fg);font-size:21px}
+    .line{clip-path:inset(0);animation-duration:12s;animation-iteration-count:infinite;animation-timing-function:steps(32,end)}
+    .first{animation-name:first}.second{animation-name:second}.third{animation-name:third}.fourth{animation-name:fourth}
+    .cursor{animation:blink 1s step-end infinite}
+    @keyframes first{0%,3%{clip-path:inset(0 100% 0 0)}17%,96%{clip-path:inset(0)}97%,100%{clip-path:inset(0 100% 0 0)}}
+    @keyframes second{0%,21%{clip-path:inset(0 100% 0 0)}38%,96%{clip-path:inset(0)}97%,100%{clip-path:inset(0 100% 0 0)}}
+    @keyframes third{0%,42%{clip-path:inset(0 100% 0 0)}57%,96%{clip-path:inset(0)}97%,100%{clip-path:inset(0 100% 0 0)}}
+    @keyframes fourth{0%,62%{clip-path:inset(0 100% 0 0)}78%,96%{clip-path:inset(0)}97%,100%{clip-path:inset(0 100% 0 0)}}
+    @keyframes blink{50%{opacity:0}}
+    @media(prefers-color-scheme:light){svg{--bg:#f4f5fc;--panel:#e9edf9;--fg:#292e42;--muted:#4d587b;--blue:#335cb4;--purple:#7755b5;--green:#4b6f22;--border:#d4daf0}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}.line{clip-path:none}.cursor{opacity:1}}
+  </style>
+  <rect x="1" y="1" width="898" height="214" rx="12" fill="var(--bg)" stroke="var(--border)"/>
+  <path d="M13 1h874a12 12 0 0 1 12 12v27H1V13A12 12 0 0 1 13 1Z" fill="var(--panel)"/>
+  <path d="M1 40h898" stroke="var(--border)"/>
+  <circle cx="24" cy="21" r="5" fill="var(--purple)"/><circle cx="42" cy="21" r="5" fill="var(--blue)"/><circle cx="60" cy="21" r="5" fill="var(--green)"/>
+  <text x="450" y="26" text-anchor="middle" font-size="13" style="font-size:13px;fill:var(--muted)">xuanloc / learning.md</text>
+  <g class="line first"><text x="32" y="78"><tspan fill="var(--green)">$</tspan> cat learning.md</text></g>
+  <g class="line second"><text x="32" y="113"><tspan fill="var(--blue)">Java</tspan> · Python / Django</text></g>
+  <g class="line third"><text x="32" y="148"><tspan fill="var(--purple)">React</tspan> · Linux</text></g>
+  <g class="line fourth"><text x="32" y="187" style="fill:var(--green)">&gt; Learn. Build. Repeat.</text><rect class="cursor" x="325" y="169" width="11" height="22" rx="1" fill="var(--green)"/></g>
+</svg>
