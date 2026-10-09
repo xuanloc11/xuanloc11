@@ -8,7 +8,7 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/main/assets/about-me-mobile.svg" />
+    <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/main/assets/about-me-mobile.svg?v=2" />
     <img src="assets/about-me.svg" alt="Software Engineering student at HCMUTE (Ho Chi Minh City University of Technology and Education). Working with and learning Java, Python / Django, WordPress and Raspberry Pi; interested in web, backend, Linux and networking. Outside coding: shooting and editing photos." width="100%" />
   </picture>
 </p>
