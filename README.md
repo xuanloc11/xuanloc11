@@ -71,11 +71,14 @@
 </table>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=xuanloc11&theme=tokyonight&hide_border=true&timezone=Asia%2FHo_Chi_Minh"
-    alt="GitHub Streak"
-    width="100%"
-  />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/streak.svg" />
+    <img
+      src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/streak.svg"
+      alt="GitHub Streak"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
