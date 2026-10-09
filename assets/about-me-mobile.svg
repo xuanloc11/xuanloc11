@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="424" viewBox="0 0 600 424" role="img" aria-labelledby="title desc">
+  <title id="title">About Xuan Loc</title>
+  <desc id="desc">Software Engineering student at HCMUTE. Working with and learning Java, Python and Django, WordPress, and Raspberry Pi. Interested in web and backend development, Linux, and networking. Outside coding: shooting and editing photos.</desc>
+  <style>
+    svg{--bg:#1a1b27;--panel:#24283b;--fg:#c0caf5;--muted:#a9b1d6;--blue:#7aa2f7;--purple:#bb9af7;--green:#9ece6a;--border:#343b58}
+    text{font-family:Segoe UI,Arial,sans-serif;fill:var(--fg);font-size:30px}
+    .label{font-family:Consolas,Menlo,monospace;font-size:20px;letter-spacing:1px;fill:var(--muted)}
+    .icon{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+    @media(prefers-color-scheme:light){svg{--bg:#f4f5fc;--panel:#e9edf9;--fg:#292e42;--muted:#4d587b;--blue:#335cb4;--purple:#7755b5;--green:#4b6f22;--border:#d4daf0}}
+  </style>
+  <rect x="1" y="1" width="598" height="422" rx="12" fill="var(--bg)" stroke="var(--border)"/>
+  <path d="M24 132h552M24 322h552" stroke="var(--border)"/>
+  <g fill="var(--panel)"><rect x="24" y="28" width="40" height="40" rx="10"/><rect x="24" y="150" width="40" height="40" rx="10"/><rect x="24" y="340" width="40" height="40" rx="10"/></g>
+  <g class="icon" stroke="var(--blue)"><path d="m30 45 14-7 14 7-14 7-14-7Zm5 3v8c6 4 12 4 18 0v-8m5-3v11"/></g>
+  <text x="84" y="42" class="label">EDUCATION</text>
+  <text x="84" y="78">Software Engineering student</text>
+  <text x="84" y="112">HCMUTE</text>
+  <g class="icon" stroke="var(--purple)"><path d="m38 162-7 8 7 8m12-16 7 8-7 8m-4-19-4 22"/></g>
+  <text x="84" y="164" class="label">WORKING WITH &amp; LEARNING</text>
+  <text x="84" y="200">Java · Python / Django</text>
+  <text x="84" y="234">WordPress · Raspberry Pi</text>
+  <text x="84" y="268">Web &amp; backend</text>
+  <text x="84" y="302">Linux &amp; networking</text>
+  <g class="icon" stroke="var(--green)"><path d="M33 352h6l3-4h7l3 4h5v20H31v-20h2Z"/><circle cx="44" cy="362" r="6"/></g>
+  <text x="84" y="354" class="label">BEYOND CODE</text>
+  <text x="84" y="392">Shooting &amp; editing photos</text>
+</svg>

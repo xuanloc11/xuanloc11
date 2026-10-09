@@ -6,28 +6,65 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently studying **Software Engineering** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
-- 🌱 I’m currently working with / learning: **Java**, **Python Django**, **WordPress**, and **Embedded Systems with Raspberry Pi**.
-- 🧠 I enjoy building web applications, learning backend development, and experimenting with Linux / networking.
-- ⚡ Fun fact: When I'm not coding, you can find me shooting and editing photos.
-- 📫 How to reach me: **letranxuanloc05@gmail.com**
+<p align="center">
+  <picture>
+    <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/main/assets/about-me-mobile.svg" />
+    <img src="assets/about-me.svg" alt="Software Engineering student at HCMUTE (Ho Chi Minh City University of Technology and Education). Working with and learning Java, Python / Django, WordPress and Raspberry Pi; interested in web, backend, Linux and networking. Outside coding: shooting and editing photos." width="100%" />
+  </picture>
+</p>
+
+<p align="right">
+  📫 <a href="mailto:letranxuanloc05@gmail.com">letranxuanloc05@gmail.com</a>
+</p>
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,django,wordpress,raspberrypi,git,github,html,css,js,vscode,linux" alt="Tech Stack" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <p><strong>Backend &amp; IoT</strong></p>
+      <img src="https://skillicons.dev/icons?i=java,python,django,raspberrypi" alt="Java, Python, Django, Raspberry Pi" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <p><strong>Web</strong></p>
+      <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" alt="HTML, CSS, JavaScript, WordPress" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <p><strong>Tools &amp; OS</strong></p>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| Personal Portfolio | My personal website and portfolio | WordPress / HTML / CSS | [Demo](#) • [Repo](#) |
-| Survey Web App | A web application built with Django | Python, Django, PostgreSQL | [Repo](https://github.com/xuanloc11/Survey) |
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <p><sub>01 · DATA COLLECTION</sub></p>
+      <h3><a href="https://github.com/xuanloc11/Survey">Survey Platform</a></h3>
+      <p>Create surveys, collect responses, and export results to CSV or Excel.</p>
+      <p><code>Django</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/xuanloc11/Survey">View source ↗</a>
+    </td>
+    <td valign="top" width="50%">
+      <p><sub>02 · CAMPUS APP</sub></p>
+      <h3><a href="https://github.com/xuanloc11/DoAnWebCanTin">Canteen Ordering</a></h3>
+      <p>Food ordering, shopping cart, and order management for a university canteen.</p>
+      <p><code>Java</code> <code>Servlet / JSP</code> <code>MySQL</code></p>
+      <a href="https://github.com/xuanloc11/DoAnWebCanTin">View source ↗</a>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://xloc.id.vn">Visit my personal portfolio ↗</a>
+</p>
+
 ---
 
 ### 🌱 Currently Learning
