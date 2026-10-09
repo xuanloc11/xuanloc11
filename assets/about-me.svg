@@ -6,6 +6,7 @@
     text{font-family:Segoe UI,Arial,sans-serif;fill:var(--fg);font-size:26px}
     .label{font-family:Consolas,Menlo,monospace;font-size:16px;letter-spacing:1.6px;fill:var(--muted)}
     .detail{font-size:24px}.icon{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+    @media(max-width:450px){text,.detail{font-size:32px}.label{font-size:20px;letter-spacing:1px}}
     @media(prefers-color-scheme:light){svg{--bg:#f4f5fc;--panel:#e9edf9;--fg:#292e42;--muted:#4d587b;--blue:#335cb4;--purple:#7755b5;--green:#4b6f22;--border:#d4daf0}}
   </style>
   <rect x="1" y="1" width="898" height="278" rx="12" fill="var(--bg)" stroke="var(--border)"/>

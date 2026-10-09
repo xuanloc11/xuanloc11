@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="424" viewBox="0 0 480 424" role="img" aria-labelledby="title desc">
-  <title id="title">About Xuan Loc</title>
+  <title id="title">About Xuan Loc — compact layout</title>
   <desc id="desc">Software Engineering student at HCMUTE. Working with and learning Java, Python and Django, WordPress, and Raspberry Pi. Interested in web and backend development, Linux, and networking. Outside coding: shooting and editing photos.</desc>
   <style>
     svg{--bg:#1a1b27;--panel:#24283b;--fg:#c0caf5;--muted:#a9b1d6;--blue:#7aa2f7;--purple:#bb9af7;--green:#9ece6a;--border:#343b58}

@@ -8,7 +8,7 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/main/assets/about-me-mobile.svg?v=2" />
+    <source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/main/assets/about-me-compact.svg" />
     <img src="assets/about-me.svg" alt="Software Engineering student at HCMUTE (Ho Chi Minh City University of Technology and Education). Working with and learning Java, Python / Django, WordPress and Raspberry Pi; interested in web, backend, Linux and networking. Outside coding: shooting and editing photos." width="100%" />
   </picture>
 </p>
@@ -21,7 +21,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <p><strong>Backend &amp; IoT</strong></p>
@@ -42,7 +42,7 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
       <p><sub>01 · DATA COLLECTION</sub></p>
