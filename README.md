@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Hi, I'm Xuan Loc — Software Developer" width="100%" />
+  <img src="assets/profile-header.svg" alt="Hi, I'm Xuan Loc — Junior Software Developer" width="100%" />
 </p>
 
 ---

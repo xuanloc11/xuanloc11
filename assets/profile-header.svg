@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="224" viewBox="0 0 1000 224" role="img" aria-labelledby="title desc">
-  <title id="title">Xuan Loc · Software Developer</title>
+  <title id="title">Xuan Loc · Junior Software Developer</title>
   <desc id="desc">A Tokyo Night inspired introduction with gently orbiting stars. Java, Python, Django, React, and Linux.</desc>
   <style>
     svg{--bg:#1a1b27;--panel:#24283b;--fg:#c0caf5;--muted:#a9b1d6;--blue:#7aa2f7;--purple:#bb9af7;--green:#9ece6a;--border:#343b58}
@@ -24,7 +24,7 @@
   <path d="M48 47h28" stroke="var(--green)" stroke-width="3" stroke-linecap="round"/>
   <text x="48" y="77" class="mono muted" font-size="14" letter-spacing="3">HELLO, I'M</text>
   <text x="44" y="135" font-size="58" font-weight="700" letter-spacing="-2">Xuan Loc<tspan fill="var(--blue)">.</tspan></text>
-  <text x="48" y="169" font-size="22" fill="var(--blue)" style="fill:var(--blue)">Software Developer</text>
+  <text x="48" y="169" font-size="22" fill="var(--blue)" style="fill:var(--blue)">Junior Software Developer</text>
   <text x="48" y="198" class="mono muted" font-size="15">Java · Python / Django · React · Linux</text>
   <g fill="none" stroke="var(--border)">
     <circle cx="830" cy="112" r="68"/>
