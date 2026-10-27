@@ -20,6 +20,27 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Generate fresh GitHub stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&card_width=495&line_height=20
+          path: dist/stats.svg
+          # PAT_1 includes private repository stats when configured; otherwise use public data.
+          token: ${{ secrets.PAT_1 || secrets.GITHUB_TOKEN }}
+          core_version: "2.2.0"
+          fail_on_error: "true"
+
+      - name: Generate fresh top languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6
+          path: dist/top-langs.svg
+          token: ${{ secrets.PAT_1 || secrets.GITHUB_TOKEN }}
+          core_version: "2.2.0"
+          fail_on_error: "true"
+
       - name: Generate light and dark snake animations
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:

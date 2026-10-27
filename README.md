@@ -88,14 +88,14 @@
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://stats.xloc.id.vn/api?username=xuanloc11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=495&line_height=20&v=107"
+        src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/stats.svg"
         alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://stats.xloc.id.vn/api/top-langs/?username=xuanloc11&layout=compact&theme=tokyonight&hide_border=true&card_width=495&langs_count=6&v=107"
+        src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/top-langs.svg"
         alt="Top Languages"
       />
     </td>
