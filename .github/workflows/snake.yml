@@ -20,11 +20,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile renderer
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+
       - name: Generate fresh GitHub stats card
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&card_width=495&line_height=20
+          options: username=${{ github.repository_owner }}&custom_title=Xuan%20Loc%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&card_width=495&line_height=20
           path: dist/stats.svg
           # PAT_1 includes private repository stats when configured; otherwise use public data.
           token: ${{ secrets.PAT_1 || secrets.GITHUB_TOKEN }}
@@ -40,6 +45,11 @@ jobs:
           token: ${{ secrets.PAT_1 || secrets.GITHUB_TOKEN }}
           core_version: "2.2.0"
           fail_on_error: "true"
+
+      - name: Style responsive profile cards
+        run: |
+          python3 -m unittest discover -s tests
+          python3 scripts/style-profile-stats.py
 
       - name: Generate light and dark snake animations
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3

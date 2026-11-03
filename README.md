@@ -81,26 +81,18 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Metrics & Engineering Activity
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        width="100%"
-        src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/stats.svg"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        width="100%"
-        src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/top-langs.svg"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/github-metrics.svg" />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/github-metrics-mobile.svg"
+      alt="Xuan Loc's GitHub statistics, GitHub rank, and most used languages, refreshed hourly"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
