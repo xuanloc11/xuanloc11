@@ -49,14 +49,12 @@
       <h3><a href="https://github.com/xuanloc11/Survey">Survey Platform</a></h3>
       <p>Create surveys, collect responses, and export results to CSV or Excel.</p>
       <p><code>Django</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/xuanloc11/Survey">View source ↗</a>
     </td>
     <td valign="top" width="50%">
       <p><sub>02 · CAMPUS APP</sub></p>
       <h3><a href="https://github.com/xuanloc11/DoAnWebCanTin">Canteen Ordering</a></h3>
       <p>Food ordering, shopping cart, and order management for a university canteen.</p>
       <p><code>Java</code> <code>Servlet / JSP</code> <code>MySQL</code></p>
-      <a href="https://github.com/xuanloc11/DoAnWebCanTin">View source ↗</a>
     </td>
   </tr>
 </table>
