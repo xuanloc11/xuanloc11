@@ -93,14 +93,11 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/streak.svg" />
-    <img
-      src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/streak.svg"
-      alt="GitHub Streak"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/streak.svg"
+    alt="Total GitHub contributions, current streak, and longest streak"
+    width="100%"
+  />
 </p>
 
 ---
