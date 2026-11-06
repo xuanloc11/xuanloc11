@@ -47,7 +47,7 @@ def render_cards(stats_svg, languages_svg):
     description = []
     for key, name, icon in ROWS:
         value = text_value(stats, key)
-        if not re.fullmatch(r"[0-9][0-9.,]*[kmbKMB]?", value):
+        if not re.fullmatch(r"(?:[0-9]+|[0-9]{1,3}(?:,[0-9]{3})+)(?:\.[0-9]+)?[kmbKMB]?", value):
             raise ValueError(f"Invalid numeric statistic: {key}")
         values.append((name, icon, value))
         description.append(f"{name}: {value}")

@@ -32,9 +32,17 @@ class ProfileCardsTest(unittest.TestCase):
             self.assertEqual(root.get("width"), "495" if "mobile" in filename else "1010")
 
     def test_error_cards_and_invalid_numbers_fail_before_publishing(self):
-        for stats in ["<svg/>", STATS.replace(">167<", ">unknown<")]:
-            with self.assertRaises(ValueError):
-                render(stats, LANGUAGES)
+        with self.assertRaises(ValueError):
+            render("<svg/>", LANGUAGES)
+        for value in ["unknown", "1,,7", "12,34", "1.2.3k"]:
+            with self.subTest(value=value), self.assertRaises(ValueError):
+                render(STATS.replace(">167<", f">{value}<"), LANGUAGES)
+
+    def test_grouped_and_compact_counts_are_preserved(self):
+        for value in ["1,234", "1.2k"]:
+            with self.subTest(value=value):
+                cards = render(STATS.replace(">167<", f">{value}<"), LANGUAGES)
+                self.assertIn(f"Commits (last year): {value}", cards["github-metrics.svg"])
 
     def test_invalid_chart_data_is_rejected(self):
         for languages in [LANGUAGES.replace("40.00%", "140.00%"), LANGUAGES.replace("40.00%", "30.00%"), LANGUAGES.replace("#3178c6", "url(evil)")]:
