@@ -110,7 +110,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/github-snake.svg" />
     <img
       src="https://raw.githubusercontent.com/xuanloc11/xuanloc11/output/github-snake.svg"
-      alt="Snake animation eating my GitHub contributions"
+      alt="Animated snake tracing Xuan Loc's GitHub contribution calendar"
       width="100%"
     />
   </picture>
